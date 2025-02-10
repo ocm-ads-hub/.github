@@ -2,7 +2,7 @@
 
 
 ## Quick Links
- - [Developer Onboarding](https://github.com/ocm-ads-hub/ads/wiki/Developer-Onboarding)
+ - [Developer Onboarding](https://github.com/ocm-ads-hub/ads/wiki/Onboarding-%E2%80%90-Windows-Terminal)
 
 
 
