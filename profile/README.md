@@ -15,7 +15,7 @@
 
 ### Backend
 
-### Database
+### [Database](https://docs.google.com/document/d/1E07hufagb1c-7tN3O84Nr5NctMKI0rDuDN-dqwGP9GU/edit?usp=sharing)
 
 ### DevOps
 
